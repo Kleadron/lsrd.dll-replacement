@@ -1,0 +1,2 @@
+#define LSRD_API __declspec(dllexport)
+#define LSRD_API __declspec(dllimport)

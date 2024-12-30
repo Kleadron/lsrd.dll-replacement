@@ -1,0 +1,3 @@
+LIBRARY LSRD
+EXPORTS
+	MysteryFunc @101
